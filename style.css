@@ -1,4 +1,6 @@
 p{
     color: skyblue;
-    background-color: red;
+    background-color:darkblue;
+    padding: 20px;
+    border: 20px solid khaki;
 }
